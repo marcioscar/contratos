@@ -1,0 +1,22 @@
+[project]
+name = "planilhas"
+version = "0.1.0"
+description = "Projeto para processamento de planilhas"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "openpyxl",
+    "jinja2",
+    "plotly",
+    "streamlit",
+    "bson>=0.5.10",
+    "dotenv>=0.9.9",
+    "pymongo>=4.15.3",
+    "reportlab>=4.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["ipykernel"]
+
+[dependency-groups]
+dev = ["ipykernel>=7.1.0"]

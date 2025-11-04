@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credenciais e variáveis de ambiente
+.env
+.env.local
+.env.*.local
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.json
+credentials.json
+config.ini
+*.secret
+
+# Projeto específico
+# Descomente as linhas abaixo se não quiser versionar planilhas
+# *.xlsx
+# *.xls
+# *.csv
+

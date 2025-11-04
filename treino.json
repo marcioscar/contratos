@@ -1,0 +1,50 @@
+[
+    {
+        "Repeticoes": "8 8 6 6 - NEGATIVA/FASE EXCÊNTRICA - 6 SEGUNDOS TODAS REPETIÇÕES",
+        "carga": "Carga",
+        "execid": "702ffb97-4aca-489d-beb5-0ff7f841e486",
+        "nome": "LEG 45º ",
+        "obs": "6 SEGUNDOS TODAS REPETIÇÕES",
+        "video": "leg_45.gif"
+    },
+    {
+        "Repeticoes": "8 8 6 6 - NEGATIVA/FASE EXCÊNTRICA - 6 SEGUNDOS TODAS REPETIÇÕES",
+        "carga": "Carga",
+        "execid": "4840a7c3-53c3-40e2-9d09-bece6531377f",
+        "nome": "AGACHAMENTO",
+        "obs": "6 SEGUNDOS TODAS REPETIÇÕES",
+        "video": "agachamento.gif"
+    },
+    {
+        "Repeticoes": "8 8 6 6 - NEGATIVA/FASE EXCÊNTRICA - 6 SEGUNDOS TODAS REPETIÇÕES",
+        "carga": "Carga",
+        "execid": "324cd8f2-94e7-4330-8013-f3eb9cd033ec",
+        "nome": "HACK",
+        "obs": "6 SEGUNDOS TODAS REPETIÇÕES",
+        "video": "producao.gif"
+    },
+    {
+        "Repeticoes": "10x10 - REPETIÇÕES 10 SEGUNDOS INTERVALO",
+        "carga": "Carga",
+        "execid": "97650b0b-d67a-40e2-9d96-939b5524e9a3",
+        "nome": "CADEIRA EXTENSORA",
+        "obs": "",
+        "video": "cadeira_extensora.gif"
+    },
+    {
+        "Repeticoes": "10x10 - REPETIÇÕES 10 SEGUNDOS INTERVALO",
+        "carga": "Carga",
+        "execid": "b4a21a9d-7bb9-474d-a79a-821b3cff3cd6",
+        "nome": "LEG HORIZONTAL",
+        "obs": "",
+        "video": "leg_horizontal.gif"
+    },
+    {
+        "Repeticoes": "10x10 - REPETIÇÕES 10 SEGUNDOS INTERVALO",
+        "carga": "Carga",
+        "execid": "90e2df13-4043-4961-a99c-ac3b03f982df",
+        "nome": "CADEIRA ADUTORA",
+        "obs": "",
+        "video": "producao.gif"
+    }
+]
